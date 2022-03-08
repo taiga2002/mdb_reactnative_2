@@ -6,6 +6,10 @@ export const styles = StyleSheet.create({
     padding: 16,
     backgroundColor: "#ffffff",
   },
+  img: {
+    justifyContent: 'center',
+    alignItems: 'center',
+  },
   h1: {
     fontFamily: "Avenir",
     fontSize: 30,
@@ -36,4 +40,5 @@ export const styles = StyleSheet.create({
     marginTop: 20,
     textAlign: "center",
   },
+
 });
